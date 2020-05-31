@@ -2,7 +2,7 @@
   "name": "Ts-Learning-Demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./mian.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --client-log-level none --color --inline --hot --config webpack.dev.js",
